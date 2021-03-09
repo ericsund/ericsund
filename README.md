@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Eric Sund
 
 - 🔭 I’m currently working on my last year at Simon Fraser University
-- 🌱 I'm currently learning Typescript
+- :sunny: This summer I'm working at Akamai in Cambridge, MA as a DevOps Engineer Intern
 - 📫 Shoot me an [email](mailto:epsund@gmail.com)
 - ⚡ Fun fact: Hang gliding is on my bucket list
 
@@ -18,5 +18,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-- :sunny: This summer I'm working at Akamai in Cambridge, MA as a DevOps Engineer Intern
 -->
