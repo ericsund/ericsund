@@ -3,7 +3,7 @@
 - 🔭 I graduated in 2022 from Simon Fraser University with a Bachelor of Science in Computer Science and Mathematics
 - 💼 My job is a software engineer at Akamai in Seattle, WA
 - 📫 Shoot me an [email](mailto:epsund@gmail.com)
-- 🥅 A goal of mine is to get PADI certified for scuba diving
+- 🥅 A goal of mine is to visit every country
 
 <!--
 **ericsund/ericsund** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
